@@ -1,0 +1,36 @@
+.Page1 {
+  margin: auto;
+  width: 650px;
+  align-content: center;
+  text-align: start;
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.ms-Button {
+  width: 300px;
+  padding: 5px;
+  margin: 5px;
+}
+
+.Page2 {
+  margin: auto;
+  margin-top: 2em;
+  background-color: lightgrey;
+  width: 650px;
+  align-content: center;
+  text-align: start;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.ms-TextField {
+  width: 300px;
+}
+.ms-Dropdown-container {
+  width: 300px;
+}
